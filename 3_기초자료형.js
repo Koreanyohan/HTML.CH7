@@ -30,3 +30,5 @@ console.log (undef);
 //null (/값이 비어있음을 의미)
 let name = null; // 개발자가 직접 대입해야 함
 console.log (name);
+
+
