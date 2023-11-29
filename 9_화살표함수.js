@@ -25,3 +25,5 @@ const hello = function(){
 //화살표함수로 변경
 const hello2 = () => console.log('안녕하세요~');
 // 익명함수의 실행문 한줄이라 중괄호 생략 가능.
+
+

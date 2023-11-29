@@ -25,3 +25,7 @@ document.addEventListener ('click',
     function () {
     alert('Clicked!');
 }); 
+
+//일반함수는 재사용되는 기능에 사용되고,
+//익명함수는 한번만 사용되는 기능에 사용한다.
+
